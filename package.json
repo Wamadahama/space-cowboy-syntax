@@ -1,0 +1,15 @@
+{
+  "name": "space-cowboy-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A syntax theme based on space bounty hunters",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/wamadahama/space-cowboy-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
