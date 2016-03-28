@@ -22,3 +22,7 @@ Ruby:
 C:
 
 ![C](https://u.pomf.is/khuoay.png)
+
+
+## Notes
+Still needs some work

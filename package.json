@@ -2,12 +2,12 @@
   "name": "space-cowboy-syntax",
   "theme": "syntax",
   "version": "0.0.1",
-  "description": "A syntax theme based on space bounty hunters",
+  "description": "A syntax theme for those with asteroid blues",
   "keywords": [
     "syntax",
     "theme"
   ],
-  "repository": "https://github.com/wamadahama/space-cowboy-syntax",
+  "repository": "https://github.com/Wamadahama/space-cowboy-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
