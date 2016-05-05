@@ -1,7 +1,7 @@
 {
   "name": "space-cowboy-syntax",
   "theme": "syntax",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "A syntax theme for those with asteroid blues",
   "keywords": [
     "syntax",
@@ -10,6 +10,7 @@
     "space",
     "space cowboy",
     "dark",
+    "neo-noir space western",
     "cowboy"
   ],
   "repository": "https://github.com/Wamadahama/space-cowboy-syntax",
