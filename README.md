@@ -16,21 +16,21 @@ A dark syntax theme based off of the neo-noir space western animation Cowboy Beb
 
 Ruby:
 
-![Ruby](imgs/rb.png)
+![Ruby](https://sli.mg/MbshGS)
 
 
 C:
 
-![C](imgs/c.png)
+![C](https://sli.mg/d2JHYo)
 
 
 "Dirty" Javascript
 
-![JS](imgs/js.png)
+![JS](https://sli.mg/wUwWRe)
 
 HTML:
 
-![HTML](imgs/html.png)
+![HTML](https://sli.mg/GSrtJ2)
 
 ## Notes
 - Thank you [jmcalaway](https://github.com/jmcalaway) for highlight and bracket-matcher code
