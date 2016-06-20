@@ -1,0 +1,47 @@
+{
+  "name": "space-cowboy-syntax",
+  "theme": "syntax",
+  "version": "1.5.0",
+  "description": "A syntax theme for those with asteroid blues",
+  "keywords": [
+    "syntax",
+    "theme",
+    "cowboy bebop",
+    "space",
+    "space cowboy",
+    "dark",
+    "neo-noir space western",
+    "cowboy"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wamadahama/space-cowboy-syntax.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "readme": "# space-cowboy-syntax theme\n\n> I think it's time I blow this scene...\n\n> Get everybody and this stuff together\n\n> OK, 3,2,1 Let's Jam!\n\nA dark syntax theme based off of the neo-noir space western animation Cowboy Bebop for those with asteroid blues\n\n## Color Palette\n\n![Bebop](https://u.pomf.is/rfbtoz.png)\n\n## Screenshot\n\nRuby:\n\n![Ruby](https://u.pomf.is/yovvyl.png)\n\n\nC:\n\n![C](https://u.pomf.is/khuoay.png)\n\n\n## Notes\nStill needs some work\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Wamadahama/space-cowboy-syntax/issues"
+  },
+  "homepage": "https://github.com/Wamadahama/space-cowboy-syntax#readme",
+  "_id": "space-cowboy-syntax@1.5.0",
+  "_shasum": "832e29ffd7d7b1014db31201b226388452514a04",
+  "_resolved": "file:..\\d-11656-2236-b94lgv\\package.tgz",
+  "_from": "..\\d-11656-2236-b94lgv\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ],
+      ".js": [
+        "test.js"
+      ]
+    },
+    "folders": []
+  }
+}
